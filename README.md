@@ -27,7 +27,7 @@ public enum GenderType  {
 ```xml
 <dependency>
     <groupId>com.keruyun.gateway</groupId>
-    <artifactId>gate-validation</artifactId>
+    <artifactId>gateway-validation</artifactId>
     <version>1.0.1-SNAPSHOT</version>
 </dependency>
 ```
