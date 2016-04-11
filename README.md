@@ -36,7 +36,7 @@ public enum GenderType  {
 
 ```xml
 <!--注入AOP的beans-->
-<bean name="validatorAspect" class="com.keruyun.portal.partner.validation.annotation.aop.ValidatorAspect">
+<bean name="validatorAspect" class="com.keruyun.gateway.validation.annotation.aop.ValidatorAspect">
     <!-- 签名模式注入，全局模式，value可以配置属性文件-->
     <!--<property name="defaultSignModeType" value="{properties.signModel}"></property>-->
 </bean>
