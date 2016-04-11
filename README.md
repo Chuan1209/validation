@@ -28,7 +28,7 @@ public enum GenderType  {
 <dependency>
     <groupId>com.keruyun.gateway</groupId>
     <artifactId>gate-validation</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
 </dependency>
 ```
 
@@ -76,7 +76,7 @@ public class ResponseExceptionHandler extends ResponseEntityExceptionHandler {
 }
 ```
 
-## javabean字段配置配置
+## javabean字段配置
 
 ```java
 /**
