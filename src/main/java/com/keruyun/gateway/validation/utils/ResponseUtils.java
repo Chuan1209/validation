@@ -9,7 +9,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * 请求响应帮助类
  *
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年2月26日
  */
 public class ResponseUtils {
@@ -23,7 +23,7 @@ public class ResponseUtils {
      * @param e
      * @param response
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月26日
      */
     public static <T> Response<T> getResponse(ValidationException e, Response<T> response) {
@@ -50,7 +50,7 @@ public class ResponseUtils {
      *
      * @param e
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
     private static String dealDaoException(Exception e) {

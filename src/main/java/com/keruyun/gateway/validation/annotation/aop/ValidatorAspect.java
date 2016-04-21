@@ -30,7 +30,7 @@ import java.util.Map;
 /**
  * 参数验证拦截器
  *
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年4月7日
  */
 @Aspect

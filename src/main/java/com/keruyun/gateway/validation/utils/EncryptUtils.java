@@ -6,13 +6,13 @@ import java.security.NoSuchAlgorithmException;
 
 /**
  * 加密工具类
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年1月23日
  */
 public class EncryptUtils {
 	/**
 	 * md5加密
-	 * @author tany@shishike.com
+	 * @author youngtan99@163.com
 	 * @2015年1月23日
 	 * @param inputText
 	 * @return
@@ -23,7 +23,7 @@ public class EncryptUtils {
 	
 	/**
 	 * sha加密
-	 * @author tany@shishike.com
+	 * @author youngtan99@163.com
 	 * @2015年1月23日
 	 * @param inputText
 	 * @return

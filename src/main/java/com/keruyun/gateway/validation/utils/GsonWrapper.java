@@ -9,7 +9,7 @@ import java.util.*;
 
 /**
  * Gson 封装
- * Created by tany@shishike.com on 16/3/18.
+ * Created by youngtan99@163.com on 16/3/18.
  */
 public class GsonWrapper {
     /**

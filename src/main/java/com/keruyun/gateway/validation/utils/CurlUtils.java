@@ -3,7 +3,7 @@ package com.keruyun.gateway.validation.utils;
 /**
  * curl命令帮助类
  * 
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年4月7日
  */
 public class CurlUtils {
@@ -11,7 +11,7 @@ public class CurlUtils {
     /**
      * 返回json的curl命令
      * 
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年4月7日
      * @param httpMethod
      * @param url

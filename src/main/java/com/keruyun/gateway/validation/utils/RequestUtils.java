@@ -22,7 +22,7 @@ import java.util.TreeMap;
 /**
  * Request 帮助类
  *
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年1月26日
  */
 public class RequestUtils {
@@ -48,7 +48,7 @@ public class RequestUtils {
     /**
      * @param request
      * @throws ValidationException
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年4月8日
      */
     public static <T> void isSign(Request<T> request, SignModelType signModel) throws ValidationException {
@@ -135,7 +135,7 @@ public class RequestUtils {
      * @param <T>
      * @param clazz
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年1月26日
      */
     public static <T> T getRequestBody(Request<T> request, Class<T> clazz) {

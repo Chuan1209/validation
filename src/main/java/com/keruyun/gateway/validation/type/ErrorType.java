@@ -6,7 +6,7 @@ package com.keruyun.gateway.validation.type;
  * 下面添加其他异常，但是必须保证error的key为2001到3000之间的数值，保证是业务异常的子数据。<p>
  * 例如:RDER_NOT_EXISTS(2003,  "订单不存在")，异常详细信息可为：查询异常[查询商户信息异常]
  * 
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  *
  */
 public enum ErrorType {
@@ -88,7 +88,7 @@ public enum ErrorType {
 	/**
 	 * 获取异常类型
 	 * 
-	 * @author tany@shishike.com
+	 * @author youngtan99@163.com
 	 * @2015年1月26日
 	 * @param key
 	 * @return

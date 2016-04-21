@@ -12,7 +12,7 @@ import java.io.Serializable;
  * 请求参数封装
  *
  * @param <T>
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年1月23日
  */
 public class Request<T> implements Serializable {

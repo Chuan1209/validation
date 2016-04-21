@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * 校验服务处理类
  *
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年2月27日
  */
 public class ValidationService {
@@ -39,7 +39,7 @@ public class ValidationService {
      *
      * @param object
      * @throws
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
     public static void valid(Object object, String des, List<String> errors) throws ValidationException {
@@ -81,7 +81,7 @@ public class ValidationService {
      * @param field
      * @param object
      * @throws ValidationException
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
 

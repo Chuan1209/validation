@@ -3,7 +3,7 @@ package com.keruyun.gateway.validation.exception;
 import com.keruyun.gateway.validation.type.ErrorType;
 
 /**
- * 业务异常 Created by tany@shishike.com on 15/10/23.
+ * 业务异常 Created by youngtan99@163.com on 15/10/23.
  */
 public class ServiceException extends RuntimeException {
 

@@ -10,7 +10,7 @@ import java.util.UUID;
 /**
  * 返回参数封装，可继承扩展
  *
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年1月23日
  */
 public class Response<T> implements Serializable {

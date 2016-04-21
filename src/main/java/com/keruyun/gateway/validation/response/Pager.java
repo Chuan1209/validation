@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 分页信息
  *
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  */
 public class Pager<T> implements Serializable {
 

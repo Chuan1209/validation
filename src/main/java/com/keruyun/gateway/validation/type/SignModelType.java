@@ -1,7 +1,7 @@
 package com.keruyun.gateway.validation.type;
 
 /**
- * Created by tany@shishike.com on 15/10/23.
+ * Created by youngtan99@163.com on 15/10/23.
  */
 public enum SignModelType {
     RUN("RUN"),DEBUG("DEBUG");

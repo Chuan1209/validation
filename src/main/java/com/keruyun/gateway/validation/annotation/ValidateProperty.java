@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
 
 /**
  * 校验规则
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年2月27日
  */
 @Retention(RetentionPolicy.RUNTIME)

@@ -2,7 +2,7 @@ package com.keruyun.gateway.validation.type;
  
 /**
  * 数据类型枚举
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年2月27日
  */
 public enum RegexType {

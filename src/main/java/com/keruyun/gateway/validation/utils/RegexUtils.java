@@ -11,7 +11,7 @@ import java.util.GregorianCalendar;
 /**
  * 校验帮助类
  *
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年2月27日
  */
 public class RegexUtils {
@@ -115,7 +115,7 @@ public class RegexUtils {
      * @param s               字符串
      * @param regexExpression 正则表单
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
     public static boolean isDecimal(String s, String regexExpression) {
@@ -141,7 +141,7 @@ public class RegexUtils {
      * @param s
      * @param regexExpression
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
     public static boolean isPhoneNumber(String s, String regexExpression) {
@@ -160,7 +160,7 @@ public class RegexUtils {
      * @param s
      * @param regexExpression
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
     public static boolean isDate(String s, String regexExpression) {
@@ -194,7 +194,7 @@ public class RegexUtils {
      *
      * @param s
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
     public static boolean isEmail(String s) {
@@ -209,7 +209,7 @@ public class RegexUtils {
      *
      * @param s
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
     public static boolean isIP(String s) {
@@ -224,7 +224,7 @@ public class RegexUtils {
      *
      * @param s
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
     public static boolean isURL(String s) {
@@ -247,7 +247,7 @@ public class RegexUtils {
      * @param s
      * @param regexExpression
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
     public static boolean isInteger(String s, String regexExpression) {
@@ -274,7 +274,7 @@ public class RegexUtils {
      * @param s
      * @param regexExpression
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
     public static boolean isLong(String s, String regexExpression) {
@@ -315,7 +315,7 @@ public class RegexUtils {
      * @param s
      * @param regexExpression
      * @return
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年2月27日
      */
     public static boolean validByRegex(String s, String regexExpression) {

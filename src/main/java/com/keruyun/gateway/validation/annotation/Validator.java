@@ -6,7 +6,7 @@ import java.lang.annotation.*;
 /**
  * 验证器注解
  *
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年4月7日
  */
 @Target({ElementType.PARAMETER, ElementType.METHOD})

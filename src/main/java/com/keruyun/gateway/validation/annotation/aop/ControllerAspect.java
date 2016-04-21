@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Aop controller 日志监控
  *
- * @author tany@shishike.com
+ * @author youngtan99@163.com
  * @since 2015年4月7日
  */
 @Aspect
@@ -28,7 +28,7 @@ public class ControllerAspect {
     /**
      * 切入点
      *
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年4月7日
      */
     @Pointcut("@annotation(com.keruyun.gateway.validation.annotation.CurlLogger)")
@@ -41,7 +41,7 @@ public class ControllerAspect {
      * 声明前置通知
      *
      * @param joinPoint
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年4月7日
      */
     @Before("controllerPointcut()")
@@ -73,7 +73,7 @@ public class ControllerAspect {
 
     /**
      * @AfterReturning 当一个方法执行返回后，返回值作为相应的参数值传入通知方法。 一个 returning 子句也限制了只能匹配到返回指定类型值的方法。
-     * @author tany@shishike.com
+     * @author youngtan99@163.com
      * @2015年4月7日
      */
     @AfterReturning(pointcut = "controllerPointcut()", returning = "retVal")

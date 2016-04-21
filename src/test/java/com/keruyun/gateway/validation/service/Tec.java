@@ -7,7 +7,7 @@ import com.keruyun.gateway.validation.type.RegexType;
 import java.io.Serializable;
 
 /**
- * Created by tany@shishike.com on 15/12/7.
+ * Created by youngtan99@163.com on 15/12/7.
  */
 public class Tec implements Serializable {
     @ValidateProperty(regexType = RegexType.CHARACTER, maxLength = 10, minLength = 1)
