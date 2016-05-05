@@ -22,15 +22,6 @@ public enum GenderType  {
 
 ```
 
-## Maven依赖
-
-```xml
-<dependency>
-    <groupId>com.keruyun.gateway</groupId>
-    <artifactId>gateway-validation</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
-</dependency>
-```
 
 ## Spring AOP配置
 
